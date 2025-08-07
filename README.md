@@ -76,12 +76,6 @@ Advanced Cybersecurity techniques and Unreal Engine for game development
 ### Versión Clásica
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=AnderMoralesMontero&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
-### Top Lenguajes (Versión Mejorada)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnderMoralesMontero&hide=html,css,scss&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=repo1,repo2)
-
-### Racha de Contribuciones (Versión Corregida)
-![GitHub Streak](https://streak-stats.demolab.com/?user=AnderMoralesMontero&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
 ## 📫 Connect with me:  
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/2001ander12)
@@ -99,13 +93,12 @@ Advanced Cybersecurity techniques and Unreal Engine for game development
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnderMoralesMontero&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-<details>
 <summary>🎧 What fuels my code sessions? <img src="https://github.com/AnderMoralesMontero/AnderMoralesMontero/blob/main/images/music-eq.gif?raw=true" width="30" height="20"></summary>
   
   ![Pop Rock](https://img.shields.io/badge/Pop_Rock-FF4088?style=for-the-badge&logo=apple-music&logoColor=white)
-  [![Nightcore](https://img.shields.io/badge/♫_Nightcore-FF00FF?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000)
+  ![Nightcore](https://img.shields.io/badge/♫_Nightcore-FF00FF?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000)
   ![Anime OST](https://img.shields.io/badge/Anime_OST-FF1493?style=for-the-badge&logo=crunchyroll&logoColor=white)
   ![Game OST](https://img.shields.io/badge/Game_Soundtracks-32CD32?style=for-the-badge&logo=steam&logoColor=white)
   
   <img src="https://github.com/AnderMoralesMontero/AnderMoralesMontero/blob/main/images/equalizer.gif?raw=true" width="100%">
-</details>
+
