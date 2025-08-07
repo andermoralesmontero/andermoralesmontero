@@ -93,12 +93,11 @@ Advanced Cybersecurity techniques and Unreal Engine for game development
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnderMoralesMontero&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-<summary>🎧 What fuels my code sessions? <img src="https://github.com/AnderMoralesMontero/AnderMoralesMontero/blob/main/images/music-eq.gif?raw=true" width="30" height="20"></summary>
+## ⚡🎧 What fuels my code sessions?
   
   ![Pop Rock](https://img.shields.io/badge/Pop_Rock-FF4088?style=for-the-badge&logo=apple-music&logoColor=white)
-  ![Nightcore](https://img.shields.io/badge/♫_Nightcore-FF00FF?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000)
+  ![Nightcore](https://img.shields.io/badge/Nightcore-FF00FF?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000)
   ![Anime OST](https://img.shields.io/badge/Anime_OST-FF1493?style=for-the-badge&logo=crunchyroll&logoColor=white)
   ![Game OST](https://img.shields.io/badge/Game_Soundtracks-32CD32?style=for-the-badge&logo=steam&logoColor=white)
-  
-  <img src="https://github.com/AnderMoralesMontero/AnderMoralesMontero/blob/main/images/equalizer.gif?raw=true" width="100%">
+
 
