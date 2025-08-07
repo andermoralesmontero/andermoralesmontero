@@ -9,8 +9,8 @@ Advanced Cybersecurity techniques and Unreal Engine for game development
 
 ### ⚡ Fun facts:  
 - I create 🎨 2D/3D designs in Blender  
-- Love 🎵 all music (especially pop rock and anime OSTs)  
-- Big fan of Cyberpunk 2077, Arcane and Shingeki no Kyojin  
+- Love 🎵 all music (especially pop rock and pop)  
+- Big fan of Cyberpunk Edgerunners, Arcane and Shingeki no Kyojin  
 
 ### 👨‍💻 All of my projects are available [here](https://github.com/tuusuario?tab=repositories).  
 
@@ -51,7 +51,18 @@ Advanced Cybersecurity techniques and Unreal Engine for game development
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
 [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white)](https://artstation.com/tuusuario)
 
-## 💖 Support:  
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tuusuario)  
+## 💖 Support:  ## ⚡ Fuel My Passion!
+[![Spotify](https://img.shields.io/badge/Support_My_Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tu_usuario)
+[![PayPal](https://img.shields.io/badge/Adrenaline_Donation-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tuusuario)
+[![Ko-fi](https://img.shields.io/badge/Competitive_Coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/tuusuario)
+
+<details>
+<summary>🎧 What fuels my code sessions?</summary>
+  
+  ![Pop Rock](https://img.shields.io/badge/Pop_Rock-FF4088?style=flat-square)
+  ![Synthwave](https://img.shields.io/badge/Synthwave-F800F8?style=flat-square)
+  ![Anime_OST](https://img.shields.io/badge/Anime_OST-FF1493?style=flat-square)
+  ![Game_Soundtracks](https://img.shields.io/badge/Game_Soundtracks-32CD32?style=flat-square)
+</details>
 
 ---
