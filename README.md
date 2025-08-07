@@ -71,6 +71,17 @@ Advanced Cybersecurity techniques and Unreal Engine for game development
   </tr>
 </table>
 
+## 📊 GitHub Stats
+
+### Versión Clásica
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=AnderMoralesMontero&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+### Top Lenguajes
+![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=AnderMoralesMontero&layout=compact&theme=dark&hide_border=true&langs_count=6)
+
+### Racha de Contribuciones
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnderMoralesMontero&theme=radical&hide_border=true)
+
 ## 📫 Connect with me:  
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/2001ander12)
