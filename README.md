@@ -71,12 +71,13 @@ Advanced Cybersecurity techniques and Unreal Engine for game development
 [![Ko-fi](https://img.shields.io/badge/Competitive-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/andermoralesmontero)
 
 <details>
-<summary>🎧 What fuels my code sessions?</summary>
+<summary>🎧 What fuels my code sessions? <img src="https://github.com/AnderMoralesMontero/AnderMoralesMontero/blob/main/images/music-eq.gif?raw=true" width="30" height="20"></summary>
   
-  ![Pop Rock](https://img.shields.io/badge/Pop_Rock-FF4088?style=flat-square)
-  [![Nightcore](https://img.shields.io/badge/♫_Nightcore-FF00FF?style=flat-square&logo=spotify&logoColor=white)](https://www.youtube.com/results?search_query=nightcore)
-  ![Anime_OST](https://img.shields.io/badge/Anime_OST-FF1493?style=flat-square)
-  ![Game_Soundtracks](https://img.shields.io/badge/Game_Soundtracks-32CD32?style=flat-square)
+  ![Pop Rock](https://img.shields.io/badge/Pop_Rock-FF4088?style=for-the-badge&logo=apple-music&logoColor=white)
+  [![Nightcore](https://img.shields.io/badge/♫_Nightcore-FF00FF?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000)](https://www.youtube.com/results?search_query=nightcore)
+  ![Anime OST](https://img.shields.io/badge/Anime_OST-FF1493?style=for-the-badge&logo=crunchyroll&logoColor=white)
+  ![Game OST](https://img.shields.io/badge/Game_Soundtracks-32CD32?style=for-the-badge&logo=steam&logoColor=white)
+  
+  <img src="https://github.com/AnderMoralesMontero/AnderMoralesMontero/blob/main/images/equalizer.gif?raw=true" width="100%">
 </details>
-
 ---
