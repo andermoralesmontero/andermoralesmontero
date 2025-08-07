@@ -16,40 +16,68 @@ Advanced Cybersecurity techniques and Unreal Engine for game development
 
 ---
 
-## 🛠️ Tech Stack (Vertical Layout)
+  ## 🛠️ Tech Stack
 
-### Programming Languages
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)]()
-[![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)]()
-[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)]()
+<table>
+  <tr>
+    <td valign="top">
+      <h4>Programming Languages</h4>
+      <ul>
+        <li><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></li>
+        <li><img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black"></li>
+      </ul>
+    </td>
+    <td valign="top">
+      <h4>Web Development</h4>
+      <ul>
+        <li><img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"></li>
+        <li><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4>Mobile Development</h4>
+      <ul>
+        <li><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"></li>
+      </ul>
+    </td>
+    <td valign="top">
+      <h4>Design & 3D</h4>
+      <ul>
+        <li><img src="https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white"></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4>Developer Tools</h4>
+      <ul>
+        <li><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></li>
+      </ul>
+    </td>
+    <td valign="top">
+      <h4>Operating Systems</h4>
+      <ul>
+        <li><img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white"></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### Web Development
-[![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)]()
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)]()
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)]()
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)]()
-
-### Mobile Development
-[![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)]()
-[![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)]()
-
-### Design & 3D
-[![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)]()
-[![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)]()
-[![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)]()
-
-### Developer Tools
-[![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)]()
-[![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)]()
-
-### Operating Systems
-[![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)]()
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)]()
-[![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)]()
 ## 📫 Connect with me:  
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/2001ander12)
