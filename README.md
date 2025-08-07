@@ -44,14 +44,6 @@ Advanced Cybersecurity techniques and Unreal Engine for game development
         <li><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"></li>
       </ul>
-      <h4>Design & 3D</h4>
-      <ul>
-        <li><img src="https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white"></li>
-        <li><img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white"></li>
-        <li><img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white"></li>
-      </ul>
-    </td>
-    <td valign="top">
       <h4>Developer Tools</h4>
       <ul>
         <li><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"></li>
@@ -59,6 +51,14 @@ Advanced Cybersecurity techniques and Unreal Engine for game development
         <li><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-DeepSeek-05122A?style=flat&logo=ai&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white"></li>
+      </ul>
+    </td>
+    <td valign="top">
+    <h4>Design & 3D</h4>
+      <ul>
+        <li><img src="https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white"></li>
       </ul>
       <h4>Operating Systems</h4>
       <ul>
