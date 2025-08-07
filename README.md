@@ -74,7 +74,7 @@ Advanced Cybersecurity techniques and Unreal Engine for game development
 <summary>🎧 What fuels my code sessions?</summary>
   
   ![Pop Rock](https://img.shields.io/badge/Pop_Rock-FF4088?style=flat-square)
-  ![Nightcore](https://img.shields.io/badge/Synthwave-F800F8?style=flat-square)
+  [![Nightcore](https://img.shields.io/badge/♫_Nightcore-FF00FF?style=flat-square&logo=spotify&logoColor=white)](https://www.youtube.com/results?search_query=nightcore)
   ![Anime_OST](https://img.shields.io/badge/Anime_OST-FF1493?style=flat-square)
   ![Game_Soundtracks](https://img.shields.io/badge/Game_Soundtracks-32CD32?style=flat-square)
 </details>
