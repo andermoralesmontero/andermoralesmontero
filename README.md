@@ -16,10 +16,11 @@ Advanced Cybersecurity techniques and Unreal Engine for game development
 
 ---
 
-  ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <table>
   <tr>
+    <!-- Column 1 -->
     <td valign="top">
       <h4>Programming Languages</h4>
       <ul>
@@ -29,7 +30,15 @@ Advanced Cybersecurity techniques and Unreal Engine for game development
         <li><img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black"></li>
       </ul>
+      
+      <h4>Mobile Development</h4>
+      <ul>
+        <li><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"></li>
+      </ul>
     </td>
+    
+    <!-- Column 2 -->
     <td valign="top">
       <h4>Web Development</h4>
       <ul>
@@ -39,17 +48,7 @@ Advanced Cybersecurity techniques and Unreal Engine for game development
         <li><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"></li>
       </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h4>Mobile Development</h4>
-      <ul>
-        <li><img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white"></li>
-        <li><img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"></li>
-      </ul>
-    </td>
-    <td valign="top">
+      
       <h4>Design & 3D</h4>
       <ul>
         <li><img src="https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white"></li>
@@ -57,20 +56,22 @@ Advanced Cybersecurity techniques and Unreal Engine for game development
         <li><img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white"></li>
       </ul>
     </td>
-  </tr>
-  <tr>
+    
+    <!-- Column 3 -->
     <td valign="top">
       <h4>Developer Tools</h4>
       <ul>
         <li><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-DeepSeek-05122A?style=flat&logo=ai&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white"></li>
       </ul>
-    </td>
-    <td valign="top">
+      
       <h4>Operating Systems</h4>
       <ul>
         <li><img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/-Parrot_OS-4DBCE9?style=flat&logo=linux&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white"></li>
       </ul>
