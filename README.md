@@ -96,6 +96,12 @@ Advanced Cybersecurity techniques and Unreal Engine for game development
 [![PayPal](https://img.shields.io/badge/Adrenaline_Donation-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/andermoralesmontero)
 [![Ko-fi](https://img.shields.io/badge/Competitive-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/andermoralesmontero)
 
+### 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnderMoralesMontero&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🌟 Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=AnderMoralesMontero/AnderMoralesMontero&type=Date)](https://star-history.com/#AnderMoralesMontero/AnderMoralesMontero&Date)
+
 <details>
 <summary>🎧 What fuels my code sessions? <img src="https://github.com/AnderMoralesMontero/AnderMoralesMontero/blob/main/images/music-eq.gif?raw=true" width="30" height="20"></summary>
   
