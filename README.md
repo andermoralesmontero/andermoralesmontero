@@ -76,11 +76,11 @@ Advanced Cybersecurity techniques and Unreal Engine for game development
 ### Versión Clásica
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=AnderMoralesMontero&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
-### Top Lenguajes
-![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=AnderMoralesMontero&layout=compact&theme=dark&hide_border=true&langs_count=6)
+### Top Lenguajes (Versión Mejorada)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnderMoralesMontero&hide=html,css,scss&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=repo1,repo2)
 
-### Racha de Contribuciones
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnderMoralesMontero&theme=radical&hide_border=true)
+### Racha de Contribuciones (Versión Corregida)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AnderMoralesMontero&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 ## 📫 Connect with me:  
 
@@ -98,9 +98,6 @@ Advanced Cybersecurity techniques and Unreal Engine for game development
 
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnderMoralesMontero&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🌟 Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=AnderMoralesMontero/AnderMoralesMontero&type=Date)](https://star-history.com/#AnderMoralesMontero/AnderMoralesMontero&Date)
 
 <details>
 <summary>🎧 What fuels my code sessions? <img src="https://github.com/AnderMoralesMontero/AnderMoralesMontero/blob/main/images/music-eq.gif?raw=true" width="30" height="20"></summary>
