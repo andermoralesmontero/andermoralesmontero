@@ -38,8 +38,6 @@ Advanced Cybersecurity techniques and Unreal Engine for game development
         <li><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"></li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h4>Mobile Development</h4>
       <ul>
@@ -53,8 +51,6 @@ Advanced Cybersecurity techniques and Unreal Engine for game development
         <li><img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white"></li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h4>Developer Tools</h4>
       <ul>
